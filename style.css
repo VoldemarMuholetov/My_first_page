@@ -1,0 +1,27 @@
+body {
+    width: auto;
+    background: url(images/fon.jpg);
+    }
+.wrapper {
+    width: 60%;
+    /*max-width: 1170px;*/
+    background-color: rgb(241, 236, 154);
+    margin: 0 auto;
+    }
+.inner {
+    width: 80%;
+    background-color: rgb(241, 236, 154);
+    margin: 0 auto;
+    }
+h1, h2, h3 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    font-size: 32px;
+}
+.sign {
+    font-style: italic;
+}
+p {
+    text-align: left;
+}
